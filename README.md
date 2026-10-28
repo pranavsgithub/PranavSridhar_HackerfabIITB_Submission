@@ -1,5 +1,6 @@
 ## Reactive Ion Etching 
 Link to Youtube Video: https://youtu.be/1PJZsOprbJo
+
 Reactive Ion Etching is a type of dry etching. Dry etching is preferred in microfabrication because it is anisotropic, achieves well defined vertical features and causes no dredging/undercutting 
 
 - RIE uses a radio frequency electric field to generate plasma, and processes gasses are passed through this plasma to generate free radicals, ions and electrons 
